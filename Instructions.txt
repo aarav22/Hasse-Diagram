@@ -1,0 +1,12 @@
+How to use the software: 
+
+1. Run the program. 
+2. The module will open. 
+3. Click on the first white space. Enter any integer value for the number of courses. 
+4. Click 'Enter'. 
+5. Now, enter the course connections in the format: 
+<course_1> - <course_2> 
+6. Example: A-B
+7. Where 'A' is the course connected to 'B' and 'B' is at a higher level than 'A'.
+8. Click 'Enter'. Enter the next input. 
+9. After the edges have been added, click 'Calculate'. 
