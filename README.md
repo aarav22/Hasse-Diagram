@@ -11,10 +11,10 @@ Directed Edges: The connection described between two courses is only one-sided, 
 
 Levels: The levels of each course refer to their position in the structure created which emulates the Hasse Diagram. A structure such as: 
 
-    - C -
-  -       -
-A           B
-			Fig. 1A 
+  	   - C -
+ 	 -       -
+	A           B
+   Fig. 1A 
 
 In this structure, the levels for A and B are 0, whereas the level for C is 1. Further details regarding its calculation are mentioned under the Execution category. 
 
