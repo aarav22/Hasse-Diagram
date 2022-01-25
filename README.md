@@ -1,4 +1,4 @@
-# Semester-Project
+# Description
 Inputting a Hasse diagram and outputting an ordering for the same
 The solution to the given problem can be summarized in the following steps:
 Storing the given directed edges between two courses in a list. 
